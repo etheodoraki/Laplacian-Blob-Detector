@@ -1,4 +1,4 @@
- Aclc;
+clc;
 close all;
 clear all;
 %% STEP 0: Load input data
